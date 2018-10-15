@@ -1,0 +1,7 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+when I initialize a repository it creates a new foldet called .git into my repositoryto track my changes.
+I need this for knowing the history of changes of my project.
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+staging area is the area that we keep file there to commit them. I think it separete them in some way.
+
