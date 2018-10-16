@@ -5,3 +5,24 @@ I need this for knowing the history of changes of my project.
 2. How is the staging area different from the working directory and the repository? What value do you think it offers?
 staging area is the area that we keep file there to commit them. I think it separete them in some way.
 
+3. How can you use the staging area to make sure you have one commit per logical change?
+you can add files one by one to this area
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+in branches we have the exact code of our previous code which help us to make our changes in the new branch and it help us having different versions of our project at the same time.
+anytime that we want to do something different
+you could also have a development branch which help you to do your changes without being worried about your running project which is stable
+
+5. How do the diagrams help you visualize the branch structure?
+it help me to underestand my position and know the consequence of my commits and check outs. 
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+the result is the mixture of both file and it has all the changes regards to both files and we show it like that as this is the point that all the changes of both file is merged into one file.
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros:
+	it was easier and there is no need to check the files
+	
+cons: 
+	it may do the merge in a wrong way and create some bugs
+	
